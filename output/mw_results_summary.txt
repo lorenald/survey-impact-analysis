@@ -1,0 +1,50 @@
+[Perspective Taking-Self Regulation-Conflict Resolution — CURRENT_AFFECT] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 7.5, p = 0.00213, p-corrected = 0.00911), with a large effect size (r = 0.821), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.08, post mean = 4.29, n pre = 12, n post = 7).
+
+[Perspective Taking-Self Regulation-Conflict Resolution — CONNECTION] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 14.5, p = 0.0158, p-corrected = 0.04487), with a large effect size (r = 0.655), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.0, post mean = 4.14, n pre = 12, n post = 7).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_ADAPTABILITY] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 909.0, p = 0.0, p-corrected = 0.0), with a large effect size (r = 0.565), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.26, post mean = 3.33, n pre = 76, n post = 55).
+
+[Parent Surveys — CONFIDENCE_CHILD_MH_SUPPORT] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 97.5, p = 0.00144, p-corrected = 0.0073), with a large effect size (r = 0.559), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.24, post mean = 4.08, n pre = 34, n post = 13).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_COMPARISON] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1242.5, p = 4e-05, p-corrected = 0.00047), with a medium effect size (r = 0.406), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.38, post mean = 3.22, n pre = 76, n post = 55).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_MISTAKES] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1274.5, p = 7e-05, p-corrected = 0.00062), with a medium effect size (r = 0.39), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.45, post mean = 3.07, n pre = 76, n post = 55).
+
+[Academic Achievement — CONFIDENCE_PROCRASTINATION] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 11066.0, p = 0.0, p-corrected = 0.0), with a medium effect size (r = 0.376), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.58, post mean = 3.37, n pre = 235, n post = 151).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_SUCCESS] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1341.0, p = 0.00039, p-corrected = 0.00252), with a medium effect size (r = 0.355), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.3, post mean = 3.0, n pre = 77, n post = 54).
+
+[Parent Surveys — AWARENESS_MH_RESOURCES] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1659.5, p = 0.00016, p-corrected = 0.00126), with a medium effect size (r = 0.354), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.49, post mean = 4.02, n pre = 107, n post = 48).
+
+[Student Mental Health — CONNECTION] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1252.5, p = 0.00227, p-corrected = 0.00911), with a medium effect size (r = 0.33), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.99, post mean = 3.68, n pre = 101, n post = 37).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_PRESSURE] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1392.0, p = 0.00231, p-corrected = 0.00911), with a medium effect size (r = 0.305), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.66, post mean = 3.29, n pre = 77, n post = 52).
+
+[Parent Surveys — CONNECTION] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 2027.5, p = 0.0013, p-corrected = 0.0073), with a medium effect size (r = 0.303), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.42, post mean = 3.0, n pre = 114, n post = 51).
+
+[Parent Surveys — CONFIDENCE_RECOGNIZING_MH_SIGNS] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1884.5, p = 0.00206, p-corrected = 0.00911), with a small effect size (r = 0.28), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.64, post mean = 4.06, n pre = 109, n post = 48).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_GRADES] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 1533.5, p = 0.01098, p-corrected = 0.03544), with a small effect size (r = 0.253), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.5, post mean = 2.94, n pre = 76, n post = 54).
+
+[Academic Achievement — IMPORTANCE_MENTAL_HEALTH] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 13214.0, p = 2e-05, p-corrected = 0.00028), with a small effect size (r = 0.252), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.26, post mean = 3.8, n pre = 234, n post = 151).
+
+[Equity, Diversity & Inclusion — CONNECTION] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 43521.0, p = 0.0, p-corrected = 0.0), with a small effect size (r = 0.243), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 2.86, post mean = 3.28, n pre = 442, n post = 260).
+
+[Academic Achievement — CURRENT_AFFECT] Participants showed a highly statistically significant improved from pre- to post-workshop (Mann-Whitney U = 13738.0, p = 6e-05, p-corrected = 0.00061), with a small effect size (r = 0.226), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.3, post mean = 3.62, n pre = 235, n post = 151).
+
+[Leadership Programming — CONNECTION] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 8171.5, p = 0.01563, p-corrected = 0.04487), with a small effect size (r = 0.166), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.44, post mean = 3.71, n pre = 213, n post = 92).
+
+[Academic Achievement — CONFIDENCE_ACADEMIC_STRESS] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 14719.5, p = 0.0041, p-corrected = 0.01502), with a small effect size (r = 0.165), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.18, post mean = 3.49, n pre = 235, n post = 150).
+
+[Academic Achievement — CONFIDENCE_TIME_MANAGEMENT] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 14944.5, p = 0.00629, p-corrected = 0.02127), with a small effect size (r = 0.158), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.1, post mean = 3.4, n pre = 235, n post = 151).
+
+[Academic Achievement — CONNECTION] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 14943.0, p = 0.01245, p-corrected = 0.03843), with a small effect size (r = 0.145), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.23, post mean = 3.51, n pre = 233, n post = 150).
+
+[Equity, Diversity & Inclusion — CURRENT_AFFECT] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 49939.5, p = 0.00137, p-corrected = 0.0073), with a small effect size (r = 0.132), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.15, post mean = 3.33, n pre = 441, n post = 261).
+
+[Equity, Diversity & Inclusion — INCLUSION_BELONGING] Participants showed a statistically significant improved from pre- to post-workshop (Mann-Whitney U = 38617.5, p = 0.00423, p-corrected = 0.01502), with a small effect size (r = -0.135), indicating that the workshop was associated with a meaningful positive shift in scores (pre mean = 3.82, post mean = 3.65, n pre = 442, n post = 154).
+
+[IB Anxiety and Growth Mindset & Anxiety & Coping — APPRAISAL_PERFECTIONISM] Participants showed a statistically significant declined from pre- to post-workshop (Mann-Whitney U = 2786.0, p = 0.00027, p-corrected = 0.00192), with a medium effect size (r = -0.358), indicating that the workshop was associated with a meaningful negative shift in scores (pre mean = 3.57, post mean = 2.96, n pre = 76, n post = 54).
+
+[Equity, Diversity & Inclusion — WILLINGNESS_INCLUSIVE_HELP] Participants showed a highly statistically significant declined from pre- to post-workshop (Mann-Whitney U = 32907.5, p = 0.0, p-corrected = 0.0), with a large effect size (r = -0.612), indicating that the workshop was associated with a meaningful negative shift in scores (pre mean = 4.47, post mean = 3.7, n pre = 439, n post = 93).
+
